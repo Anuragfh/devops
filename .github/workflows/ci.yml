@@ -1,7 +1,3 @@
-import os
-
-yaml_content = """
-name: Python CI Workflow
 
 on: 
   push:
